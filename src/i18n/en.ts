@@ -72,7 +72,34 @@ export const en: Dictionary = {
   },
   portfolio: {
     title: 'Portfolio',
-    subtitle: 'Examples of the challenges we solve — from mission-critical to day-to-day operations.',
+    subtitle: 'A product we built, plus examples of the challenges we solve — from mission-critical to day-to-day.',
+    productEyebrow: 'Product',
+    productCta: 'Open CalcInvest',
+    productGithub: 'Code on GitHub',
+    product: {
+      tagline: 'Investment calculator',
+      description:
+        'Simulate investments with clarity. Compare fixed income, percentages, annualized return (CAGR), and REIT tax scenarios — free, with no sign-up.',
+      features: [
+        {
+          title: 'Percentages',
+          description: 'See what one amount represents of another, and add or subtract percentages.',
+        },
+        {
+          title: 'Fixed income',
+          description: 'Project a balance with interest, monthly contributions, and regressive income tax.',
+        },
+        {
+          title: 'CAGR',
+          description: 'See the average annual return between a starting value and an ending value.',
+        },
+        {
+          title: 'REIT tax (DARF)',
+          description: 'Estimate average price and the tax due when selling Brazilian REIT shares.',
+        },
+      ],
+      note: 'Results are educational estimates. Check with your broker or accountant before making a decision.',
+    },
     cases: [
       {
         title: 'Critical systems & operations',

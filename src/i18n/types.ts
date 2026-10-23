@@ -48,6 +48,18 @@ export type Dictionary = {
   portfolio: {
     title: string;
     subtitle: string;
+    productEyebrow: string;
+    productCta: string;
+    productGithub: string;
+    product: {
+      tagline: string;
+      description: string;
+      features: Array<{
+        title: string;
+        description: string;
+      }>;
+      note: string;
+    };
     cases: Array<{
       title: string;
       tag: string;

@@ -72,7 +72,34 @@ export const es: Dictionary = {
   },
   portfolio: {
     title: 'Portafolio',
-    subtitle: 'Ejemplos del tipo de desafío que resolvemos — de lo crítico a la operación diaria.',
+    subtitle: 'Un producto propio y ejemplos del tipo de desafío que resolvemos — de lo crítico al día a día.',
+    productEyebrow: 'Producto',
+    productCta: 'Abrir CalcInvest',
+    productGithub: 'Código en GitHub',
+    product: {
+      tagline: 'Calculadora de inversiones',
+      description:
+        'Simula tus inversiones con claridad. Compara renta fija, porcentajes, retorno anualizado (CAGR) e IR de FIIs — gratis y sin registro.',
+      features: [
+        {
+          title: 'Porcentajes',
+          description: 'Descubre cuánto representa un valor de otro, suma o resta porcentajes.',
+        },
+        {
+          title: 'Renta fija',
+          description: 'Proyecta el monto con intereses, aportes mensuales y descuento de IR regresivo.',
+        },
+        {
+          title: 'CAGR',
+          description: 'Mira la rentabilidad media anual entre el valor inicial y el final.',
+        },
+        {
+          title: 'DARF FIIs',
+          description: 'Calcula el precio medio y el IR estimado en la venta de cuotas.',
+        },
+      ],
+      note: 'Los resultados son estimaciones educativas. Confírmalos con tu broker o contador antes de decidir.',
+    },
     cases: [
       {
         title: 'Sistemas críticos y operaciones',
