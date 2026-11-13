@@ -1,7 +1,5 @@
 export const contact = {
   email: 'guilherme.ps20@gmail.com',
-  phoneDisplay: '(61) 9 9692-9431',
-  phoneTel: '+5561996929431',
   whatsappDisplay: '(61) 9 9692-9431',
   whatsappUrl: 'https://wa.me/5561996929431',
   role: 'Senior Software Development Engineer',
