@@ -53,6 +53,13 @@ const alternates: Array<{ locale: Locale; hrefLang: string }> = [
       rel="stylesheet"
     />
     <title>{t.meta.title}</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18571536602"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-18571536602');
+    </script>
     <script is:inline>
       (function () {
         try {
