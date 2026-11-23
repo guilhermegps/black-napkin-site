@@ -125,9 +125,12 @@ export const es: Dictionary = {
     title: 'Contacto',
     subtitle: 'Cuéntanos el desafío — de un banco a un negocio local. Te ayudamos a diseñar el siguiente paso.',
     email: 'Correo',
-    phone: 'Teléfono',
     whatsapp: 'WhatsApp',
+    whatsappValue: 'Escríbenos por mensaje',
     address: 'Dirección',
+    ctaEmail: 'Enviar correo',
+    ctaWhatsapp: 'Abrir chat',
+    ctaMap: 'Ver en el mapa',
   },
   footer: {
     rights: 'Todos los derechos reservados.',

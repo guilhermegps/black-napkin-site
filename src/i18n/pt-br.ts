@@ -125,9 +125,12 @@ export const ptBr: Dictionary = {
     title: 'Contato',
     subtitle: 'Conte o desafio — de um banco a uma papelaria. A gente ajuda a desenhar o próximo passo.',
     email: 'E-mail',
-    phone: 'Telefone',
     whatsapp: 'WhatsApp',
+    whatsappValue: 'Fale com a gente por mensagem',
     address: 'Endereço',
+    ctaEmail: 'Enviar e-mail',
+    ctaWhatsapp: 'Abrir conversa',
+    ctaMap: 'Ver no mapa',
   },
   footer: {
     rights: 'Todos os direitos reservados.',

@@ -1,6 +1,5 @@
 export const contact = {
-  email: 'guilherme.ps20@gmail.com',
-  whatsappDisplay: '(61) 9 9692-9431',
+  email: 'blacknapkincontact@gmail.com',
   whatsappUrl: 'https://wa.me/5561996929431',
   role: 'Senior Software Development Engineer',
   address: {

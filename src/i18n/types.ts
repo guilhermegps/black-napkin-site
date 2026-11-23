@@ -70,9 +70,12 @@ export type Dictionary = {
     title: string;
     subtitle: string;
     email: string;
-    phone: string;
     whatsapp: string;
+    whatsappValue: string;
     address: string;
+    ctaEmail: string;
+    ctaWhatsapp: string;
+    ctaMap: string;
   };
   footer: {
     rights: string;

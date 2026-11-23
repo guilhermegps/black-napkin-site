@@ -125,9 +125,12 @@ export const en: Dictionary = {
     title: 'Contact',
     subtitle: 'Tell us the challenge — from a bank to a local shop. We will help shape the next step.',
     email: 'Email',
-    phone: 'Phone',
     whatsapp: 'WhatsApp',
+    whatsappValue: 'Message us directly',
     address: 'Address',
+    ctaEmail: 'Send email',
+    ctaWhatsapp: 'Open chat',
+    ctaMap: 'View on map',
   },
   footer: {
     rights: 'All rights reserved.',
